@@ -17,13 +17,12 @@
 
 ---
 
-## Auteur
 
 ### **Abdoulhakim ELMI MAHAMOUD**
 
 Géomaticien - Apprenti Chef de projet SIG à la **DIR Est**  
 **CP Géomaticien - IDGEO | 2025-2027**  
-**Mail :** ing.abdoulhakim.elmi@gmail.com
+**Mail :** [ing.abdoulhakim.elmi@gmail.com](mailto:ing.abdoulhakim.elmi@gmail.com)
 
 Ce site a été développé afin de centraliser et documenter les connaissances, méthodes et outils utilisés dans le domaine de la géomatique.
 
