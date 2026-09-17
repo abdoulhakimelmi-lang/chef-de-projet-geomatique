@@ -1,11 +1,28 @@
 # Bienvenue sur ma documentation en Géomatique
 
+<div align="center">
+
+<img src="images/qgis.svg" alt="QGIS" height="75">&nbsp;&nbsp;
+<img src="images/arcgis-pro.png" alt="ArcGIS Pro" height="75">&nbsp;&nbsp;
+<img src="images/experience-builder.png" alt="Experience Builder" height="75">&nbsp;&nbsp;
+<img src="images/arcgis-dashboards.png" alt="ArcGIS Dashboards" height="75">&nbsp;&nbsp;
+<img src="images/postgresql.svg" alt="PostgreSQL" height="75">&nbsp;&nbsp;
+<img src="images/postgis.svg" alt="PostGIS" height="75">&nbsp;&nbsp;
+<img src="images/python.svg" alt="Python" height="75">&nbsp;&nbsp;
+<img src="images/docker.svg" alt="Docker" height="75">&nbsp;&nbsp;
+<img src="images/geoserver.png" alt="GeoServer" height="75">&nbsp;&nbsp;
+<img src="images/openlayers.svg" alt="OpenLayers" height="75">
+
+</div>
+
+---
+
 ## Auteur
 
 ### **Abdoulhakim ELMI MAHAMOUD**
 
 Géomaticien - Apprenti Chef de projet SIG à la **DIR Est**  
-🎓 **CP Géomaticien - IDGEO | 2025-2027**  
+**CP Géomaticien - IDGEO | 2025-2027**  
 **Mail :** ing.abdoulhakim.elmi@gmail.com
 
 Ce site a été développé afin de centraliser et documenter les connaissances, méthodes et outils utilisés dans le domaine de la géomatique.
@@ -46,6 +63,6 @@ Le site s'organise progressivement autour de différentes thématiques :
 
 <div align="center">
 
-**QGIS • ArcGIS Pro • PostgreSQL • PostGIS • Python • ArcPy • OpenLayers • GeoServer • Docker**
+QGIS • ArcGIS Pro • PostgreSQL • PostGIS • Python • ArcPy • OpenLayers • GeoServer • Docker
 
 </div>
