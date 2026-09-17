@@ -2,8 +2,37 @@ site_name: Géomatique - Abdoulhakim ELMI MAHAMOUD
 site_description: Cours, travaux pratiques et projets en géomatique
 
 theme:
-  name: material
-  language: fr
+  name: readthedocs
+  locale: fr
 
 nav:
   - Accueil: index.md
+  - Formation IDGEO:
+      - A01:
+          - Présentation: formation-idgeo/a01/index.md
+          - Gestion de projet: formation-idgeo/a01/gestion-projet.md
+      - A02:
+          - Présentation: formation-idgeo/a02/index.md
+          - Formats et BDD ESRI: formation-idgeo/a02/formats-bdd-esri.md
+          - IDG: formation-idgeo/a02/idg.md
+          - Modélisation MCD / MLD / MPD: formation-idgeo/a02/modelisation-mcd-mld-mpd.md
+          - Qualité & Juridique: formation-idgeo/a02/qualite-juridique.md
+          - Qualité & Standards: formation-idgeo/a02/qualite-standards.md
+          - VRT: formation-idgeo/a02/vrt.md
+      - A03:
+          - Présentation: formation-idgeo/a03/index.md
+          - ArcPy: formation-idgeo/a03/arcpy.md
+          - GeoNetwork: formation-idgeo/a03/geonetwork.md
+          - ML Sentinel: formation-idgeo/a03/ml-sentinel.md
+          - OpenLayers: formation-idgeo/a03/openlayers.md
+          - pgRouting / PostGIS: formation-idgeo/a03/pgrouting-postgis.md
+          - PostGIS 3D: formation-idgeo/a03/postgis-3d.md
+          - Python: formation-idgeo/a03/python.md
+          - Sémiologie cartographique: formation-idgeo/a03/semiologie-cartographique.md
+      - A04:
+          - Présentation: formation-idgeo/a04/index.md
+          - GeoServer: formation-idgeo/a04/geoserver.md
+  - Entreprise — DIR Est:
+      - Présentation: entreprise-dir-est/index.md
+      - Mes missions: entreprise-dir-est/missions.md
+      - Projets / travaux réalisés: entreprise-dir-est/projets.md
