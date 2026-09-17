@@ -8,8 +8,12 @@ theme:
 
 nav:
   - Accueil: index.md
-
-  - OpenLayers:
-      - Cours théorique: openlayers/cours.md
-      - Travaux pratiques: openlayers/pratique.md
-      - Schémas: openlayers/schemas.md
+  - Formation IDGEO:
+      - A01: formation-idgeo/a01/index.md
+      - A02: formation-idgeo/a02/index.md
+      - A03: formation-idgeo/a03/index.md
+      - A04: formation-idgeo/a04/index.md
+  - Entreprise — DIR Est:
+      - Présentation: entreprise-dir-est/index.md
+      - Mes missions: entreprise-dir-est/missions.md
+      - Projets / travaux réalisés: entreprise-dir-est/projets.md
