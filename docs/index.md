@@ -12,3 +12,11 @@
 <img src="images/openlayers.svg" alt="OpenLayers" height="40">
 
 </div>
+
+<div align="center">
+
+# Abdoulhakim ELMI MAHAMOUD
+
+### Géomaticien
+
+**Cartographie • SIG • Bases de données spatiales • Web SIG • Automatisation**
