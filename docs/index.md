@@ -1,141 +1,51 @@
 # Bienvenue sur ma documentation en Géomatique
 
-<div align="center">
-
-<img src="images/qgis.svg" alt="QGIS" height="80">
-&nbsp;&nbsp;
-<img src="images/arcgis-pro.png" alt="ArcGIS Pro" height="80">
-&nbsp;&nbsp;
-<img src="images/postgresql.svg" alt="PostgreSQL" height="80">
-&nbsp;&nbsp;
-<img src="images/postgis.svg" alt="PostGIS" height="80">
-&nbsp;&nbsp;
-<img src="images/python.svg" alt="Python" height="80">
-&nbsp;&nbsp;
-<img src="images/openlayers.svg" alt="OpenLayers" height="80">
-&nbsp;&nbsp;
-<img src="images/geoserver.png" alt="GeoServer" height="80">
-&nbsp;&nbsp;
-<img src="images/docker.svg" alt="Docker" height="80">
-
-</div>
-
----
-
 ## Auteur
 
-### Abdoulhakim ELMI MAHAMOUD
+### **Abdoulhakim ELMI MAHAMOUD**
 
-**Géomaticien**
+Géomaticien - Apprenti Chef de projet SIG à la **DIR Est**  
+🎓 **CP Géomaticien - IDGEO | 2025-2027**  
+**Mail :** ing.abdoulhakim.elmi@gmail.com
 
-🎓 CP Géomaticien — IDGEO | 2025-2027
+Ce site a été développé afin de centraliser et documenter les connaissances, méthodes et outils utilisés dans le domaine de la géomatique.
 
----
+Il rassemble progressivement les cours, travaux pratiques, méthodes, scripts et projets réalisés au cours de ma formation **CP Géomaticien à IDGEO**, ainsi que différentes expérimentations autour des systèmes d'information géographique.
 
-## Présentation
-
-Ce site constitue ma plateforme personnelle de documentation en **géomatique**.
-
-Il rassemble les cours, travaux pratiques, exercices et projets réalisés dans le cadre de ma formation **CP Géomaticien à IDGEO**.
-
-L'objectif est de conserver une documentation claire et structurée sur les différentes méthodes et technologies utilisées en géomatique.
-
-Cette documentation me permet également de retrouver facilement les procédures, les exemples de code et les méthodes utilisées pendant ma formation.
-
----
+L'objectif est de disposer d'un espace clair, structuré et facilement accessible permettant de retrouver les méthodes et outils utilisés pour la gestion, l'analyse, l'automatisation et la publication des données géographiques.
 
 ## Objectifs du site
 
-Ce site a plusieurs objectifs :
+- Centraliser mes connaissances et ressources en géomatique.
+- Documenter les méthodes et procédures utilisées.
+- Conserver des exemples de scripts et de traitements SIG.
+- Faciliter la compréhension des différentes technologies étudiées.
+- Présenter les travaux pratiques et applications réalisés.
+- Disposer d'un support de révision et de référence.
 
-- centraliser mes cours et mes travaux en géomatique ;
-- documenter les méthodes et procédures utilisées ;
-- conserver mes exemples de code ;
-- expliquer simplement les notions étudiées ;
-- présenter les applications réalisées pendant la formation ;
-- conserver une trace de ma progression ;
-- disposer d'un support personnel de révision.
+### Autres sites
 
----
+[🔗 LinkedIn](https://www.linkedin.com/in/abdoulhakim-elmi-mahamoud-730465253/)
 
-## Domaines étudiés
+## Quelques contenus disponibles
 
-Les différentes parties de cette documentation concernent notamment :
+Le site s'organise progressivement autour de différentes thématiques :
 
-### SIG et cartographie
+- **Accueil** - Présentation générale de la documentation et de ses objectifs.
+- **OpenLayers** - Développement et création d'applications cartographiques Web.
+- **PostgreSQL / PostGIS** - Gestion et traitement des données géographiques dans une base de données.
+- **QGIS** - Traitements, analyses et cartographie SIG.
+- **Python / ArcPy** - Automatisation des traitements géomatiques.
+- **GeoServer** - Publication et diffusion de données géographiques.
+- **Docker** - Découverte des conteneurs et de leur utilisation dans un environnement SIG.
+- **Interopérabilité** - Échange de données entre logiciels, formats et services géographiques.
 
-QGIS, ArcGIS Pro et les outils de l'écosystème ArcGIS.
-
-### Bases de données géographiques
-
-PostgreSQL, PostGIS, SQL et gestion des données spatiales.
-
-### Développement et automatisation
-
-Python, ArcPy, JavaScript et automatisation des traitements géomatiques.
-
-### Web SIG
-
-OpenLayers, GeoServer, services Web et développement d'applications cartographiques.
-
-### Infrastructure SIG
-
-Docker, serveurs SIG, bases de données et architectures permettant de publier et partager des données géographiques.
+*D'autres rubriques seront ajoutées progressivement en fonction des cours, travaux pratiques et projets réalisés.*
 
 ---
-
-## Contenu de la documentation
-
-La documentation sera organisée progressivement par thématique.
-
-### OpenLayers
-
-Cette partie présente l'utilisation d'**OpenLayers** pour développer des applications cartographiques Web.
-
-Elle comprend :
-
-- le cours théorique ;
-- les travaux pratiques ;
-- les exemples de code ;
-- les applications réalisées ;
-- les schémas permettant de comprendre le fonctionnement d'une application Web SIG.
-
-### PostgreSQL / PostGIS
-
-Cette partie regroupera les notions concernant les bases de données géographiques, les requêtes SQL et les traitements spatiaux.
-
-### QGIS
-
-Cette partie regroupera les travaux réalisés avec QGIS : traitements SIG, cartographie, analyse spatiale et automatisation.
-
-### Python / ArcPy
-
-Cette partie présentera les scripts Python utilisés pour automatiser différents traitements géomatiques.
-
-### GeoServer
-
-Cette partie présentera la publication et la diffusion de données géographiques sur le Web.
-
-### Docker et infrastructure SIG
-
-Cette partie permettra de documenter progressivement les notions liées aux serveurs, aux conteneurs et aux architectures SIG.
-
----
-
-## Technologies utilisées
 
 <div align="center">
 
-**QGIS • ArcGIS Pro • PostgreSQL • PostGIS • Python • ArcPy • JavaScript • OpenLayers • GeoServer • Docker**
+**QGIS • ArcGIS Pro • PostgreSQL • PostGIS • Python • ArcPy • OpenLayers • GeoServer • Docker**
 
 </div>
-
----
-
-## Formation
-
-**CP Géomaticien — IDGEO**
-
-**Session 2025-2027**
-
-Cette documentation évoluera progressivement avec les cours, travaux pratiques et projets réalisés pendant la formation.
