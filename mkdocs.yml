@@ -1,5 +1,6 @@
-site_name: Géomatique - Abdoulhakim ELMI MAHAMOUD
+site_name: Plateforme de documentation en Géomatique
 site_description: Cours, travaux pratiques et projets en géomatique
+site_author: Abdoulhakim ELMI MAHAMOUD
 
 theme:
   name: readthedocs
