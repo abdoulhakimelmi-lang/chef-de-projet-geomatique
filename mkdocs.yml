@@ -3,6 +3,11 @@ site_name: Géomatique - Abdoulhakim ELMI MAHAMOUD
 theme:
   name: readthedocs
   locale: fr
-  
+
 nav:
   - Accueil: index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
