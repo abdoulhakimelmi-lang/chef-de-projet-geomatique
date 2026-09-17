@@ -1,0 +1,9 @@
+site_name: Géomatique - Abdoulhakim ELMI MAHAMOUD
+site_description: Cours, travaux pratiques et projets en géomatique
+
+theme:
+  name: material
+  language: fr
+
+nav:
+  - Accueil: index.md
