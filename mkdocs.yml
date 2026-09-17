@@ -8,10 +8,27 @@ theme:
 
 nav:
   - Accueil: index.md
+
   - Formation IDGEO:
+
       - A01:
           - Présentation: formation-idgeo/a01/index.md
-          - Gestion de projet: formation-idgeo/a01/gestion-projet.md
+
+          - Gestion de projet:
+              - Présentation du module: formation-idgeo/a01/gestion-projet/index.md
+              - S33 — Enjeux et stratégies du projet: formation-idgeo/a01/gestion-projet/s33-enjeux-strategies-projet.md
+              - S34 — Communication du projet: formation-idgeo/a01/gestion-projet/s34-communication-projet.md
+              - S35 — Droits informatiques: formation-idgeo/a01/gestion-projet/s35-droits-informatiques.md
+              - S36 — Ingénierie de projet — Partie 1: formation-idgeo/a01/gestion-projet/s36-ingenierie-projet-part1.md
+              - S36 — Ingénierie de projet et jalons: formation-idgeo/a01/gestion-projet/s36-ingenierie-projet-jalons.md
+              - S37 — Pilotage et performance: formation-idgeo/a01/gestion-projet/s37-pilotage-performance-projet.md
+              - S38 — Méthodologies projets SI: formation-idgeo/a01/gestion-projet/s38-methodologies-projets-si.md
+              - PAQ — Données géographiques Digitanie: formation-idgeo/a01/gestion-projet/paq-donnees-geographiques-digitanie.md
+              - PAQ — Exemple Web SIG: formation-idgeo/a01/gestion-projet/paq-exemple-websig.md
+              - PMAQ — Exemple type AIS: formation-idgeo/a01/gestion-projet/pmaq-type-ais.md
+              - TP — Charte projet: formation-idgeo/a01/gestion-projet/tp-charte-projet.md
+              - Trame — Charte projet: formation-idgeo/a01/gestion-projet/trame-charte-projet.md
+
       - A02:
           - Présentation: formation-idgeo/a02/index.md
           - Formats et BDD ESRI: formation-idgeo/a02/formats-bdd-esri.md
@@ -20,6 +37,7 @@ nav:
           - Qualité & Juridique: formation-idgeo/a02/qualite-juridique.md
           - Qualité & Standards: formation-idgeo/a02/qualite-standards.md
           - VRT: formation-idgeo/a02/vrt.md
+
       - A03:
           - Présentation: formation-idgeo/a03/index.md
           - ArcPy: formation-idgeo/a03/arcpy.md
@@ -30,9 +48,11 @@ nav:
           - PostGIS 3D: formation-idgeo/a03/postgis-3d.md
           - Python: formation-idgeo/a03/python.md
           - Sémiologie cartographique: formation-idgeo/a03/semiologie-cartographique.md
+
       - A04:
           - Présentation: formation-idgeo/a04/index.md
           - GeoServer: formation-idgeo/a04/geoserver.md
+
   - Entreprise — DIR Est:
       - Présentation: entreprise-dir-est/index.md
       - Mes missions: entreprise-dir-est/missions.md
