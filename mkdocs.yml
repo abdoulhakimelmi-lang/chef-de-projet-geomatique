@@ -1,4 +1,6 @@
-site_name: Géomatique - Abdoulhakim ELMI MAHAMOUD
+site_name: Plateforme de documentation en Géomatique
+site_description: Cours, travaux pratiques et projets en géomatique
+site_author: Abdoulhakim ELMI MAHAMOUD
 
 theme:
   name: readthedocs
@@ -7,7 +9,7 @@ theme:
 nav:
   - Accueil: index.md
 
-markdown_extensions:
-  - admonition
-  - pymdownx.highlight
-  - pymdownx.superfences
+  - OpenLayers:
+      - Cours théorique: openlayers/cours.md
+      - Travaux pratiques: openlayers/pratique.md
+      - Schémas: openlayers/schemas.md
