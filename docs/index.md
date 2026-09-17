@@ -1,19 +1,21 @@
 # Bienvenue sur ma documentation en Géomatique
 
-<div align="center">
+<div style="display:flex; align-items:center; justify-content:center; gap:18px; flex-wrap:wrap; margin:30px 0;">
 
-<img src="images/qgis.svg" alt="QGIS" height="75">&nbsp;&nbsp;
-<img src="images/arcgis-pro.png" alt="ArcGIS Pro" height="75">&nbsp;&nbsp;
-<img src="images/experience-builder.png" alt="Experience Builder" height="75">&nbsp;&nbsp;
-<img src="images/arcgis-dashboards.png" alt="ArcGIS Dashboards" height="75">&nbsp;&nbsp;
-<img src="images/postgresql.svg" alt="PostgreSQL" height="75">&nbsp;&nbsp;
-<img src="images/postgis.svg" alt="PostGIS" height="75">&nbsp;&nbsp;
-<img src="images/python.svg" alt="Python" height="75">&nbsp;&nbsp;
-<img src="images/docker.svg" alt="Docker" height="75">&nbsp;&nbsp;
-<img src="images/geoserver.png" alt="GeoServer" height="75">&nbsp;&nbsp;
-<img src="images/openlayers.svg" alt="OpenLayers" height="75">
+<img src="images/qgis.svg" alt="QGIS" style="height:65px; width:auto; max-width:110px;">
+<img src="images/arcgis-pro.png" alt="ArcGIS Pro" style="height:65px; width:auto; max-width:110px;">
+<img src="images/experience-builder.png" alt="Experience Builder" style="height:65px; width:auto; max-width:110px;">
+<img src="images/arcgis-dashboards.png" alt="ArcGIS Dashboards" style="height:65px; width:auto; max-width:110px;">
+<img src="images/postgresql.svg" alt="PostgreSQL" style="height:65px; width:auto; max-width:110px;">
+<img src="images/postgis.svg" alt="PostGIS" style="height:65px; width:auto; max-width:110px;">
+<img src="images/python.svg" alt="Python" style="height:65px; width:auto; max-width:110px;">
+<img src="images/docker.svg" alt="Docker" style="height:65px; width:auto; max-width:110px;">
+<img src="images/geoserver.png" alt="GeoServer" style="height:65px; width:auto; max-width:110px;">
+<img src="images/openlayers.svg" alt="OpenLayers" style="height:65px; width:auto; max-width:110px;">
 
 </div>
+
+---
 
 ---
 
