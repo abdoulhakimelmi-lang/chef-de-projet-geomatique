@@ -1,10 +1,8 @@
 site_name: Géomatique - Abdoulhakim ELMI MAHAMOUD
 
 theme:
-  name: material
-  language: fr
-  palette:
-    scheme: default
-
+  name: readthedocs
+  locale: fr
+  
 nav:
   - Accueil: index.md
