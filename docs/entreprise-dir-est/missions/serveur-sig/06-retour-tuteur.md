@@ -1,5 +1,7 @@
 # 06 --- Retour du tuteur et évolution de la réflexion
 
+![Synthèse du retour du tuteur](images/06-retour-tuteur.png)
+
 ## Validation de la démarche
 
 Après avoir présenté les deux options à mon tuteur, il a confirmé qu'il
