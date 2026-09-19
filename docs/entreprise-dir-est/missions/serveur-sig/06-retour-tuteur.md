@@ -1,6 +1,6 @@
 # 06 --- Retour du tuteur et évolution de la réflexion
 
-![Synthèse du retour du tuteur](images/06-retour-tuteur.png)
+![Synthèse du retour du tuteur](images/06-retour-tuteur.png.png)
 
 ## Validation de la démarche
 
