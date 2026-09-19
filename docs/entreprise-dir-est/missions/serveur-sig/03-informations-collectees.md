@@ -38,8 +38,7 @@ disponible.
 
 ## Schéma de ma collecte
 
-![Infos collectées --- serveur
-actuel](images/infos-collectees-serveur-actuel.png)
+![Infos collectées — serveur actuel](images/03-collecte-initiale.png)
 
 Cette page représente donc **mon état des lieux initial**, avant la
 réception des informations complémentaires d'Esri.
