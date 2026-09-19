@@ -55,5 +55,17 @@ nav:
 
   - Entreprise — DIR Est:
       - Présentation: entreprise-dir-est/index.md
-      - Mes missions: entreprise-dir-est/missions.md
+
+      - Mes missions:
+          - Présentation: entreprise-dir-est/missions.md
+
+          - Serveur SIG:
+              - Accueil: entreprise-dir-est/missions/serveur-sig/index.md
+              - 01 — Préparation de la réunion: entreprise-dir-est/missions/serveur-sig/01-reunion-serveur-sig.md
+              - 02 — Définitions techniques: entreprise-dir-est/missions/serveur-sig/02-definitions-techniques.md
+              - 03 — Informations collectées: entreprise-dir-est/missions/serveur-sig/03-informations-collectees.md
+              - 04 — Deux options proposées: entreprise-dir-est/missions/serveur-sig/04-deux-options.md
+              - 05 — Informations Esri: entreprise-dir-est/missions/serveur-sig/05-informations-esri.md
+              - 06 — Retour du tuteur: entreprise-dir-est/missions/serveur-sig/06-retour-tuteur.md
+
       - Projets / travaux réalisés: entreprise-dir-est/projets.md
