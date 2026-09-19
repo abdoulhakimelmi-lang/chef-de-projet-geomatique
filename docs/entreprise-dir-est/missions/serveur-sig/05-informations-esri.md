@@ -58,4 +58,4 @@ dimensionnement dépendra de l'architecture retenue et des besoins réels.
 
 ## Schéma récapitulatif
 
-![Architecture actuelle structurée](images/04-architecture-actuelle.png)
+![Architecture actuelle structurée](images/actuelle.png)
