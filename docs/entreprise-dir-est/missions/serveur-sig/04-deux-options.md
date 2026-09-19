@@ -82,4 +82,4 @@ Les deux options doivent être étudiées avant toute décision.
 
 ## Schéma récapitulatif
 
-![Deux options proposées](images/05-deux-options.png)
+![Deux options proposées](images/option1_option2.png)
