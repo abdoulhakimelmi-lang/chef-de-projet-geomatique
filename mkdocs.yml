@@ -11,6 +11,9 @@ nav:
 
   - Formation IDGEO:
 
+      # =========================================================
+      # A01
+      # =========================================================
       - A01:
           - Présentation: formation-idgeo/a01/index.md
 
@@ -29,6 +32,9 @@ nav:
               - TP — Charte projet: formation-idgeo/a01/gestion-projet/tp-charte-projet.md
               - Trame — Charte projet: formation-idgeo/a01/gestion-projet/trame-charte-projet.md
 
+      # =========================================================
+      # A02
+      # =========================================================
       - A02:
           - Présentation: formation-idgeo/a02/index.md
           - Formats et BDD ESRI: formation-idgeo/a02/formats-bdd-esri.md
@@ -38,6 +44,9 @@ nav:
           - Qualité & Standards: formation-idgeo/a02/qualite-standards.md
           - VRT: formation-idgeo/a02/vrt.md
 
+      # =========================================================
+      # A03
+      # =========================================================
       - A03:
           - Présentation: formation-idgeo/a03/index.md
           - ArcPy: formation-idgeo/a03/arcpy.md
@@ -49,10 +58,37 @@ nav:
           - Python: formation-idgeo/a03/python.md
           - Sémiologie cartographique: formation-idgeo/a03/semiologie-cartographique.md
 
+      # =========================================================
+      # A04
+      # =========================================================
       - A04:
           - Présentation: formation-idgeo/a04/index.md
           - GeoServer: formation-idgeo/a04/geoserver.md
 
+      # =========================================================
+      # ÉTUDES DE CAS
+      # =========================================================
+      - Études de cas:
+          - Présentation: formation-idgeo/etudes-de-cas/index.md
+
+          - A01:
+              - Présentation: formation-idgeo/etudes-de-cas/a01/index.md
+
+          - A02:
+              - Présentation: formation-idgeo/etudes-de-cas/a02/index.md
+
+          - A03 — Accessibilité PMR:
+              - Présentation: formation-idgeo/etudes-de-cas/a03/index.md
+              - 01 — Comprendre l'étude de cas A3: formation-idgeo/etudes-de-cas/a03/01-etude-de-cas-a3.md
+              - 02 — Avancement du projet: formation-idgeo/etudes-de-cas/a03/02-avancement-projet-a3.md
+              - 03 — Audit de la structure de la base: formation-idgeo/etudes-de-cas/a03/03-audit-structure-base.md
+
+          - A04:
+              - Présentation: formation-idgeo/etudes-de-cas/a04/index.md
+
+  # =============================================================
+  # ENTREPRISE — DIR EST
+  # =============================================================
   - Entreprise — DIR Est:
       - Présentation: entreprise-dir-est/index.md
 
