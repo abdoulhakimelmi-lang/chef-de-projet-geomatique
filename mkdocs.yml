@@ -51,6 +51,7 @@ nav:
           - Présentation: formation-idgeo/a03/index.md
           - ArcPy: formation-idgeo/a03/arcpy.md
           - GeoNetwork: formation-idgeo/a03/geonetwork.md
+          - geOrchestra: formation-idgeo/a03/georchestra.md
           - ML Sentinel: formation-idgeo/a03/ml-sentinel.md
           - OpenLayers: formation-idgeo/a03/openlayers.md
           - pgRouting / PostGIS: formation-idgeo/a03/pgrouting-postgis.md
