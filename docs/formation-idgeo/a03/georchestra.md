@@ -1,4 +1,3 @@
-
 # geOrchestra — Fiche de cours
 
 **Date : 24 septembre 2026**  
@@ -174,7 +173,7 @@ La documentation geOrchestra présente notamment Helm, Docker Compose, Ansible e
 
 ## 8. Le schéma d’architecture de geOrchestra
 
-![Schéma d’architecture geOrchestra fourni pendant le cours](../../images/architecture-georchestra.png)
+![Schéma d’architecture geOrchestra fourni pendant le cours](../images/architecture-georchestra.png)
 
 Une **architecture** décrit les composants d’un système et leurs relations. Ce schéma donne une vue d’ensemble des services, de l’authentification et des bases de données.
 
@@ -227,6 +226,27 @@ Selon la légende de cette image :
 > **La distinction essentielle : GeoNetwork décrit les données ; Datahub présente le catalogue ; GeoServer diffuse les données ; MapStore affiche les cartes.**
 
 *Source de cette section : schéma fourni par l’utilisateur pendant le cours. Les exemples expliquent les rôles ; ils ne constituent pas une vérification de la configuration réelle de la plateforme.*
+
+## 9. La page d’accueil du catalogue
+
+![Accueil du catalogue geOrchestra](../images/accueil-catalogue.png)
+
+Le **catalogue** permet de rechercher les jeux de données de l’organisation et de consulter leurs fiches descriptives. Cette capture montre l’interface Datahub utilisée pendant le cours.
+
+| Élément visible | Rôle simple |
+|---|---|
+| **Barre de recherche** | Rechercher une ressource à partir d’un mot-clé. |
+| **Mes favoris** | Retrouver les ressources enregistrées comme favorites. |
+| **Les plus récentes / Les plus appréciées** | Consulter les sélections correspondantes. |
+| **Viewers** | Accéder aux visualiseurs cartographiques proposés. |
+| **Applications / Services / Import** | Accéder aux fonctions de la plateforme selon la configuration et les droits. |
+| **Administration** | Accéder aux fonctions d’administration autorisées. |
+| **Fil d’activité** | Consulter les activités récentes affichées. |
+| **Quelques chiffres** | Voir les indicateurs du catalogue : la capture affiche 20 ressources. |
+
+**Exemple :** saisir « départements » dans la barre de recherche pour retrouver les fiches correspondantes, si elles sont présentes dans le catalogue. Une fiche peut décrire les données, leur origine, leur date et leurs liens d’accès.
+
+> **À retenir :** le catalogue aide à trouver et à comprendre les données ; le visualiseur permet de les voir sur une carte.
 
 ## Sources pour réviser
 
